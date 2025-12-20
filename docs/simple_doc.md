@@ -182,7 +182,7 @@ def build_signup_page():
     
     state_config = StateConfig(
         s_data={'form_title': 'Join the Club'},
-        elements__state_config=[title_state,]
+        elements_state_config=[title_state,]
     )
     # 2. Style
     style_config = StyleConfig(
