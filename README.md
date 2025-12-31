@@ -44,7 +44,7 @@ MUI solves this by bringing the Frontend into Python:
 # 📦 Installation
 
 ```bash 
-pip install mastodon-ui 
+pip install probo-ui
 ```
 
 # 🚀 Quick Example
