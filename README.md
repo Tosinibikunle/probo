@@ -46,7 +46,7 @@ MUI solves this by bringing the Frontend into Python:
 # 📦 Installation
 
 ```bash 
-pip install mastodon-ui 
+pip install probo-ui
 ```
 
 # 🚀 Quick Example
@@ -80,4 +80,7 @@ print(html)
 # Output: 
 # <div class='card'><h1>Admin<strong>User_789xyz1323</strong></h1><ul><li>python</li><li>javascript</li><li>docker</li><li>django</li></ul></div>
 ```
+<<<<<<< HEAD
 💬 Community & Support Need help? Have a question that isn't a bug? Join our <a href='https://discord.gg/jnZRbVasgd'>Discord</a> Server to chat with other probo-ui developers.
+=======
+>>>>>>> 33d4322430b84d6baa3840fd8822972c44bc6014
